@@ -4,7 +4,7 @@ quiz
 1.😊 **DISEÑO VISUAL**
 proceso de crear y organizar elementos gráficos para desarrollar software, donde se utilizan interfaces de arrastrar y soltar, diagramas e iconos en lugar de código textual para construir la lógica de una aplicación
 
-2. 😊 **Storm**
+2. 👍 **Storm**
 Apache Storm es un sistema de procesamiento de flujos de datos en tiempo real que permite el procesamiento de datos en movimiento. Storm es altamente escalable y tolerante a fallos, lo que lo hace adecuado para aplicaciones que requieren procesamiento en tiempo real, como análisis de redes sociales, monitoreo de sistemas y procesamiento de eventos complejos.
 
 3. 😶‍🌫️**Gobernanza de la ciberseguridad**

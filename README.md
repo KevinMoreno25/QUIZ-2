@@ -12,3 +12,5 @@ La gobernanza de la ciberseguridad se refiere al conjunto de responsabilidades y
 
 4. 😎**Infraestructura como código (IaC)**
 La infraestructura como código (IaC) es un enfoque para gestionar y aprovisionar recursos de infraestructura mediante código en lugar de procesos manuales. Con IaC, los equipos pueden definir su infraestructura utilizando archivos de configuración que se pueden versionar y gestionar de la misma manera que el código de la aplicación. Esto permite una mayor consistencia, repetibilidad y automatización en la gestión de la infraestructura, lo que facilita la implementación de cambios y la recuperación ante desastres.   
+
+5. 🥳 **Printer**: Impresora. Es un dispositivo que convierte documentos digitales en copias en papel.
